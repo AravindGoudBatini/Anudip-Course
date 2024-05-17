@@ -17,6 +17,7 @@ public class SwapTwoNumbers {
         System.out.println("After swapping:");
         System.out.println("x = " + x);
         System.out.println("y = " + y);
+        System.out.println("Addition :"+(x+y));
     }
     
     }
